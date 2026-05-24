@@ -3,11 +3,12 @@
 
 I build scalable software systems and AI-powered applications that solve real business problems. My work combines modern backend engineering, intelligent automation, and production-ready frontend experiences into products that drive impact.
 
-🚀 ##What I Do
+## 🚀 What I Do
+
 I specialize in AI-native product development — building multi-agent workflows, LLM integrations, and intelligent automation systems using Node.js, React, PostgreSQL, and OpenAI APIs. My projects range from SaaS platforms and enterprise tools to AI training consoles and conversational automation systems.
 I focus on scalable architecture and automation-first engineering, creating systems that move efficiently from prototype to production while maintaining strong developer experience.
 
-📌## Current Focus
+## 📌 Current Focus
 
   AI-native product architecture
   Multi-agent systems
