@@ -14,7 +14,7 @@ I focus on scalable architecture and automation-first engineering, creating syst
   Multi-agent systems
   Autonomous development workflows
   Scalable backend infrastructure
-  Human + AI collaborative developmen
+  Human + AI collaborative development
 
 <!--
 **HamzaRizwan214/HamzaRizwan214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
