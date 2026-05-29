@@ -2,7 +2,7 @@
 
 **Software Engineer • AI Systems Builder • Full-Stack Developer**
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzarizwan)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamriz/)
 
 ---
 
