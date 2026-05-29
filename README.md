@@ -1,20 +1,28 @@
-## Hi, I'm Hamza Rizwan 👋
-## Software Engineer • AI Systems Builder • Full-Stack Developer
+# Hi!👋
 
-I build scalable software systems and AI-powered applications that solve real business problems. My work combines modern backend engineering, intelligent automation, and production-ready frontend experiences into products that drive impact.
+**Software Engineer • AI Systems Builder • Full-Stack Developer**
 
-## 🚀 What I Do
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzarizwan)
 
-I specialize in AI-native product development — building multi-agent workflows, LLM integrations, and intelligent automation systems using Node.js, React, PostgreSQL, and OpenAI APIs. My projects range from SaaS platforms and enterprise tools to AI training consoles and conversational automation systems.
-I focus on scalable architecture and automation-first engineering, creating systems that move efficiently from prototype to production while maintaining strong developer experience.
+---
 
-## 📌 Current Focus
+## About Me
 
-  AI-native product architecture
-  Multi-agent systems
-  Autonomous development workflows
-  Scalable backend infrastructure
-  Human + AI collaborative development
+I build scalable AI-native products and automation systems that solve real business problems. Specializing in multi-agent workflows, LLM integrations, and full-stack development using Node.js, React, PostgreSQL, and OpenAI APIs—turning complex challenges into practical, high-impact products.
+
+Currently focused on AI-native architecture, autonomous workflows, and intelligent business automation. I thrive at the intersection of AI-powered systems and robust engineering practices, building products that move efficiently from prototype to production.
+
+---
+
+## Languages and Tools
+
+**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**AI/ML:** ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=flat-square&logo=ai&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 <!--
 **HamzaRizwan214/HamzaRizwan214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
