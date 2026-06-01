@@ -22,7 +22,7 @@ Currently focused on AI-native architecture, autonomous workflows, and intellige
 
 **AI/ML:** ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=flat-square&logo=ai&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) 
 
 <!--
 **HamzaRizwan214/HamzaRizwan214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
