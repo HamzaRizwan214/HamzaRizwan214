@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hamriz 👋
+# Hi, I'm Hamza 👋
 
 ### Software Engineer • AI Systems Builder • Full-Stack Developer
 
