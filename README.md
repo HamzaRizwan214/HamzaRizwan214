@@ -53,20 +53,20 @@ I build **scalable AI-native products and automation systems** that solve real b
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+<!---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=hamriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=hamriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamriz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamriz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamriz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/> 
 
 </div>
 
----
+--->
 
 ## 🌱 What I'm Focused On
 
