@@ -1,85 +1,181 @@
 <div align="center">
 
-# Hi, I'm Hamza 👋
+# Hi, I'm Hamza Rizwan
 
-### Software Engineer • AI Systems Builder • Full-Stack Developer
+### AI Systems Engineer · Full-Stack Developer · AI-Native Product Builder
 
-I design and ship AI-native products — from multi-agent LLM workflows to production-grade full-stack systems — that turn ambiguous problems into reliable, scalable software.
+I design and ship **AI-native products, intelligent automation systems, and production-grade software** — combining LLMs, agentic workflows, modern web technologies, and scalable backend architecture.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamriz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzarizwan.dev/)
+<br/>
 
-</div>
+<a href="https://www.linkedin.com/in/hamriz/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://hamzarizwan.dev/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-## 🚀 About Me
-
-I build **scalable AI-native products and automation systems** that solve real business problems — not demos, production systems. My focus sits at the intersection of **multi-agent LLM workflows**, **intelligent automation**, and **robust full-stack engineering**.
-
-- 🧠 Currently deep in **AI-native architecture** — autonomous agents, tool-use pipelines, and orchestration layers that go beyond single-prompt chatbots
-- ⚙️ Building with **Node.js, React/Next.js, PostgreSQL,** and the **OpenAI API** to move products from prototype to production fast, without cutting corners on reliability
-- 🎯 I care about systems that are **observable, testable, and maintainable** — AI features are only as good as the engineering underneath them
-- 📈 Always exploring how LLMs can automate real operational workflows, not just add a chat widget to an app
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**AI / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-<!---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hamriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamriz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamriz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/> 
+<img src="https://img.shields.io/badge/AI%20Systems-111111?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Engineering-111111?style=flat-square&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-111111?style=flat-square&logo=dependabot&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack-111111?style=flat-square&logo=stackshare&logoColor=white" />
 
 </div>
 
+---
 
---->
+## AI Systems
 
+My primary focus is building **AI systems that do more than generate text**.
 
-## 🌱 What I'm Focused On
+I work on architectures where LLMs can reason, use tools, interact with data, coordinate tasks, and execute real-world workflows.
 
-- Designing multi-agent systems that coordinate reliably at scale
-- Bridging the gap between "cool AI demo" and "production-ready AI product"
-- Sharpening system design and architecture for AI-driven applications
+```text
+              ┌─────────────────────┐
+              │      User / API     │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   AI Orchestrator   │
+              └──────────┬──────────┘
+                         │
+            ┌────────────┼────────────┐
+            ▼            ▼            ▼
+       ┌─────────┐  ┌─────────┐  ┌─────────┐
+       │ Agents  │  │   LLM   │  │  Tools  │
+       └────┬────┘  └─────────┘  └────┬────┘
+            │                          │
+            ▼                          ▼
+       ┌─────────┐              ┌─────────────┐
+       │ Memory  │              │ APIs / Data │
+       └─────────┘              └─────────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │ Production Workflow │
+              └─────────────────────┘
+```
+
+### What I build
+
+| Area                  | Focus                                                             |
+| --------------------- | ----------------------------------------------------------------- |
+| **Agentic AI**        | Multi-agent systems, tool use, autonomous workflows               |
+| **LLM Engineering**   | Structured outputs, prompting, context management, orchestration  |
+| **AI Automation**     | Turning repetitive business operations into intelligent workflows |
+| **RAG Systems**       | Retrieval pipelines, semantic search, knowledge systems           |
+| **AI Products**       | AI-native SaaS, conversational interfaces, intelligent assistants |
+| **AI Infrastructure** | APIs, databases, observability, reliability and deployment        |
+
+---
+
+## 🧠 AI / ML Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=openai,python,pytorch" />
+
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=googlebard&logoColor=white" />
+<img src="https://img.shields.io/badge/Agents-111111?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=databricks&logoColor=white" />
+
+---
+
+## ⚡ Engineering Stack
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" />
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,githubactions" />
+
+---
+
+## 🏗️ How I Think About AI Products
+
+I don't treat AI as a feature that gets added to an existing application.
+
+I approach AI as part of the **system architecture itself**.
+
+```text
+Problem
+   ↓
+Understand the workflow
+   ↓
+Identify what can be automated
+   ↓
+Design the AI architecture
+   ↓
+LLM + Agents + Tools + Data
+   ↓
+Build deterministic guardrails
+   ↓
+Test + Observe + Evaluate
+   ↓
+Deploy
+   ↓
+Iterate
+```
+
+The goal is simple:
+
+> **Build AI systems that are useful, reliable, and capable of operating in the real world.**
+
+---
+
+## 🚀 Current Focus
+
+* Building **multi-agent AI systems**
+* Designing reliable **LLM orchestration architectures**
+* Developing **AI-powered automation workflows**
+* Exploring **RAG, semantic search, memory and tool-use**
+* Building AI products that connect directly to **real business operations**
+* Improving the engineering discipline behind production AI
+
+---
+
+## 💡 Beyond the Chatbot
+
+The interesting part of AI isn't another chat interface.
+
+It's what happens when an AI system can:
+
+**Understand → Reason → Retrieve → Decide → Use Tools → Execute → Verify**
+
+That's the direction I'm building toward.
 
 ---
 
 <div align="center">
 
-*Open to interesting conversations about AI systems, automation, and building things that ship.*
+### Let's build something intelligent.
+
+I'm interested in **AI systems, automation, agentic workflows, and ambitious products**.
+
+<br/>
+
+<a href="https://hamzarizwan.dev/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hamriz/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
