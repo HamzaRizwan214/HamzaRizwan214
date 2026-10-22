@@ -101,7 +101,7 @@ Full-stack engineer focused on building **modern, production-ready applications*
 
 ---
 
-<div align="center">
+<div align="center"> 
 
 ### Build. Ship. Iterate.
 
